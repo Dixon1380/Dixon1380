@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dixon1380
 - 👀 I’m interested in Automation, Game Dev, Web Dev, AI, Machine Learning, Computer Architecture and Robotics
-- 🌱 I’m currently learning ... Full-Stack Dev, DevOps, AI, Machine Learning, Operating Systems, Game Development, Hardware Design & Computer Architecture, & Robotics
+- 🌱 I’m currently learning ...DevOps, AI, Machine Learning, Automation, Game Development, and Robotics
 - 💞️ I’m looking to collaborate on my interests.
 - 📫 How to reach me ...DixonDavid1332@gmail.com
 
